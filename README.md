@@ -1,2 +1,2 @@
-# Projeck
+# Projeckt
 first project
